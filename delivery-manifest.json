@@ -1,0 +1,307 @@
+[
+  {
+    "path": "projects/credit-card/Credit Card Fraud - Analytical Report.pdf",
+    "bytes": 1598866,
+    "sha256": "8b1a6284cc6959e083b599efad2db418e0cd458a809c881ff65bdcefec1f8747"
+  },
+  {
+    "path": "projects/credit-card/Credit Card Fraud Analysis - V2 - Reviewed.pbix",
+    "bytes": 135503193,
+    "sha256": "52f33ea7c4e526741cca5fd7267b20eff6cd3a2ebe25415bc92f00e083bba61c"
+  },
+  {
+    "path": "projects/financial-transactions/Financial Transactions - Fraud Study.pbix",
+    "bytes": 84048140,
+    "sha256": "ff85400a093e0dd60e22318c2b460a57c79e1d629afc7ca5119acd31a0487f4c"
+  },
+  {
+    "path": "projects/financial-transactions/Financial Transactions - Fraud Study.pdf",
+    "bytes": 508929,
+    "sha256": "acc3d8e189350c39e7598e23f8b9976d8deb2e581aa71fbd2b05419269a1f08e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/AmountBand.csv",
+    "bytes": 738,
+    "sha256": "575db7eb3b6cca631120f79614ef028543cd6223df82a311a78454bd636c0c2b"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Analysis.csv",
+    "bytes": 17146,
+    "sha256": "80645b3b061a995c63f2009ac44126560fc71fb5872f9b58ea65d9dd9c239e5a"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Channel.csv",
+    "bytes": 506,
+    "sha256": "f9e8697def389607c8a850c56e8e16a49ed779a040cb4005392f82fb3731714a"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/ChannelDevice.csv",
+    "bytes": 1803,
+    "sha256": "f4028e90986cedb297eeb5dac192f8723c3dc035186f860981c61d494f2aaa58"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/ChannelDeviceView.csv",
+    "bytes": 1996,
+    "sha256": "6792f638fca8442eb186859be2b9d551d1f31bb9e7b1c8a054d5e8d287e36d3e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Daily.csv",
+    "bytes": 36564,
+    "sha256": "198340adbd91c9edabf86085a6af90d670c739f6eaf435ed765c6b93883f66c3"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Deviation.csv",
+    "bytes": 825,
+    "sha256": "04e535b73ce29b1c2c74317d1e0f7f94252f3e23a533fcca5424e0f77622e92d"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/DeviceChange.csv",
+    "bytes": 320,
+    "sha256": "980c1b27fe31a5a17947bcdb92c04bc1313d8aec545361d4282f30b4e3df1fe5"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/DevicesActivity.csv",
+    "bytes": 356,
+    "sha256": "ecac6ca23b6ccbeca1a9a859e76e08763645de26a5bdde8290049c0308e5754b"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/DevicesTop.csv",
+    "bytes": 5304,
+    "sha256": "715a6ef18420c8b3e663a5ba7f882c3a022d5f2d206a3e7a2dbb085e26d488ce"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/DeviceType.csv",
+    "bytes": 493,
+    "sha256": "514eff134134e8551487f7fe3bd0383cf9b180be4b2e157533a17ff02e214836"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/FraudType.csv",
+    "bytes": 249,
+    "sha256": "9998931e679a75c0206a48f14e1f55dac8f035442cadc44f5dc5cf05e7835e99"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/FraudTypeMonth.csv",
+    "bytes": 2315,
+    "sha256": "ec01c91406520ab7dfeaadeed8ace4369885b9a551d76761fa118fdbb0af640f"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/GeoScore.csv",
+    "bytes": 657,
+    "sha256": "75fd70ae1c42fafb1b3ff70d7d66ee0ff632b260f3f7b6d3dc5fd231ec2ada03"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/groups.json",
+    "bytes": 125385,
+    "sha256": "05d1d5c5220ca185adad57b37eb79106c230acb987feb655115984bfa29a5a0c"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Hourly.csv",
+    "bytes": 2369,
+    "sha256": "96af730f925bf105bc6d7bc419887b0744bb8c61209a9bffc52e18a1fe8474a2"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/IPsActivity.csv",
+    "bytes": 207,
+    "sha256": "1a4367d3bbd8d62c5c14112354fa719edb3ac7a5a7ee4ac09a304fcd356cdf92"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/IPsTop.csv",
+    "bytes": 4617,
+    "sha256": "7acb7896130112256b019b15ffeab67286846ca2c05155361d96b4ab5419f61c"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Location.csv",
+    "bytes": 904,
+    "sha256": "5b167dde4b9e2dc47ffc243acb56fd70cbf16ea02c057d4b66001164369d82f1"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/LocationChange.csv",
+    "bytes": 433,
+    "sha256": "65bd1220f02a08814d7b266a289ea75bafacdfb0ad52954cd5b79df04d69b082"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/LocationChannel.csv",
+    "bytes": 3521,
+    "sha256": "f6d5a4d3f32e9f8e535e4c491ee67159e1f7bb9be26af28109a5e55524805f54"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Merchant.csv",
+    "bytes": 922,
+    "sha256": "be24800e403ad9bd95a6f1d33540f89f989e81ba3b0d8a6840194c78f3fe5f76"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Monthly.csv",
+    "bytes": 1403,
+    "sha256": "399a786632ec137acdbce4aedd15b296b2e6c1e24b800ad1d4419195a0c30cc2"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/ObservedGap.csv",
+    "bytes": 815,
+    "sha256": "6cae55918b55ba80a6f9bd23a5adaf0c20fa22502ca6ab536ae9ed67d43a59d6"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/page_findings.json",
+    "bytes": 3497,
+    "sha256": "15bd52e68eb77732c0826636110cb4ef934d0cc90f313addee74a5f08fb83f30"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/PairsTop.csv",
+    "bytes": 2115,
+    "sha256": "c1cdf2fbc335dc4ae1037ce9e9e94360664ccd6280d64176db67b427e0ef8ae7"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/prepare_focused.py",
+    "bytes": 4401,
+    "sha256": "2c6be90ecf69fcf48c251d7bf3ed4b592934dd9afb281d9fdc3a639485a76050"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/PreviousState.csv",
+    "bytes": 436,
+    "sha256": "133a2d64abde550d175b6f4c853752324f4688e9e8a061ab69ed5c3dcd6f9df8"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/rebuild_analysis.py",
+    "bytes": 11111,
+    "sha256": "bec49d4bab43f7930e5d7baf6677b573d1c2249885458377116f25c604f2846e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/rebuild_study.py",
+    "bytes": 6020,
+    "sha256": "9b4f9af32b93a3cdc7d1a36e77bae810087c0f98ac76d9a028aed6f0bbffcf14"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/ReceiversActivity.csv",
+    "bytes": 435,
+    "sha256": "4191cf8de1c4508cd120a44de10775701b21c25336be141aacd1471245af5476"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/ReceiversTop.csv",
+    "bytes": 6089,
+    "sha256": "6b7c9dcf29a7d21852e7fb185764196a64749fc0812b0f30b0d2bc4917cec60a"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/SendersActivity.csv",
+    "bytes": 411,
+    "sha256": "334925b729b96d61b369f8ce440329bafb9e213968b40deeef8d2e3d1fbcd036"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/SendersTop.csv",
+    "bytes": 6383,
+    "sha256": "9881fac0aa7f630467ec573ef1f1d7ebfc4e90280b0d9400421cc1bcef5c514e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/source_checks.json",
+    "bytes": 7700,
+    "sha256": "c51118a3c8b5315191159686a80c8702af5a95384900fb523a87ce2b34b7273e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/summary.json",
+    "bytes": 7700,
+    "sha256": "79944cb13a69af00b68b6b360e4246a6ef6957d81875ee4c17d6c13638fc37e5"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/SuppliedGap.csv",
+    "bytes": 721,
+    "sha256": "9ff7f44e840172f7fa0705a463e628b78f3527e4bcf77274a761acce553e066d"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/TransactionType.csv",
+    "bytes": 512,
+    "sha256": "ced7b3a1c9c513e40c14c7be32998cd224ab80c0f2636f34f2b88cff031b670a"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/TypeChannel.csv",
+    "bytes": 1874,
+    "sha256": "3b3e42089ab75f430155f468fea9eb045caf77c5b64a58403e7b9ba0756d7cd7"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/validation.json",
+    "bytes": 149,
+    "sha256": "4b783f316be6ab364195c272bfbdbd6988e1df7736a1caf451482524d2fb9e0c"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Velocity.csv",
+    "bytes": 532,
+    "sha256": "e1fe10e31b58a572de79f84a867687543df78e228d508c33656f8e781a69f02c"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Weekday.csv",
+    "bytes": 765,
+    "sha256": "70a616bfd3e1cf3b37c8a33c989aa8907941ed082db6325d61c1229624b7416e"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/WeekHour.csv",
+    "bytes": 16103,
+    "sha256": "63eeba9270026d11f4b16d4f5f3d29768b93531abb4d0b45b659490bdd56a6f9"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/WeekHourTop.csv",
+    "bytes": 1154,
+    "sha256": "ee0319e75b2db9cf15c29955c458bbbec74c706fc4b744abffac403f2947debc"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Yearly.csv",
+    "bytes": 275,
+    "sha256": "83ede4102a2889df2f057eb26dc58977baf0a081dc21331cd7d89023bbc05aad"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/AmountBands.csv",
+    "bytes": 355,
+    "sha256": "0c6d676d5c99fe062e2024b2998df49352b2dc21a29372e832c7fe5fd83c6478"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/CityChanges.csv",
+    "bytes": 226,
+    "sha256": "f44f38ae985d93adff38d8239d0d47fee0aa9cc84bed90919674e7441ba37bbf"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/DataChecks.csv",
+    "bytes": 615,
+    "sha256": "d783dafe58a32500cdeffa2b8bd16997fca35c98efae54e8c206c98c5785fd4d"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/Identity.csv",
+    "bytes": 246,
+    "sha256": "c927ebb520563e53c6bbb48a5cf9b7ed6b24928e0f721bca0378420250b8ef1c"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/measure_definitions.json",
+    "bytes": 6149,
+    "sha256": "11cd9b0a8a67a0e4c9c3932a2b51febaa55df62d57c87917ff3bc26c1771bec9"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/Monthly.csv",
+    "bytes": 677,
+    "sha256": "6da0622965ad7ca958b468efbd083544c1600b36d6c258729f67be428d733ad4"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/PaymentMix.csv",
+    "bytes": 167,
+    "sha256": "5007074253f3a528e37b45635d4952e78767abd98979d02e075fc00447318eba"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/SegmentReview.csv",
+    "bytes": 674,
+    "sha256": "690fe5897989fa57fe406950c553de75b4d107b4e30c0c106edae1a2d5520bfd"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/StudyMetrics.csv",
+    "bytes": 248,
+    "sha256": "55f160e2bf48b44f20a1a07392a31b719cf86884a0fad5239d1b0a97f151c975"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/TimeRanges.csv",
+    "bytes": 179,
+    "sha256": "df1cae48da47a38b04090db7bc353b9174d7759ac649f5256d4c1bb9b4040ab1"
+  },
+  {
+    "path": "projects/financial-transactions/ModelData/Focused/WaitingTime.csv",
+    "bytes": 400,
+    "sha256": "ba9574fa758f435f9cf12f8cf4d9a33a659e58684da1512bc216d68654eb59d7"
+  },
+  {
+    "path": "comparison/Fraud Behaviour - Comparative Presentation.pdf",
+    "bytes": 128483,
+    "sha256": "3ce256d640ae7d8488841f767b7dbd142752767669a58d38ed435dee5e03d67f"
+  }
+]

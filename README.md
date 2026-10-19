@@ -8,9 +8,9 @@ This project follows those questions through payment size, timing, repeated amou
 
 ## Start here
 
-- [The comparison and recommendations](comparison/Fraud%20Behaviour%20-%20Comparative%20Presentation.pdf)
-- [Credit card study — 15 pages](projects/credit-card/Credit%20Card%20Fraud%20-%20Analytical%20Report.pdf)
-- [Financial transactions study — 8 pages](projects/financial-transactions/Financial%20Transactions%20-%20Fraud%20Study.pdf)
+- [The comparison and recommendations](https://github.com/Spooky911/payment-fraud-analysis/blob/main/Fraud%20Behaviour%20-%20Comparative%20Presentation.pdf)
+- [Credit card study — 15 pages](https://github.com/Spooky911/payment-fraud-analysis/blob/main/Credit%20Card%20Fraud%20-%20Analytical%20Report.pdf)
+- [Financial transactions study — 8 pages](https://github.com/Spooky911/payment-fraud-analysis/blob/main/Financial%20Transactions%20-%20Fraud%20Study.pdf)
 - **Editable Power BI files:** download the project package from this repository's Releases page. The package keeps the large PBIX files out of Git history and includes the financial report's supporting ModelData folder.
 
 ## The two datasets
