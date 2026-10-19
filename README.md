@@ -1,5 +1,13 @@
 # Payment fraud: what deserves a closer look?
 
+## Download the Power BI files
+
+- [Credit card report (.pbix)](https://github.com/Spooky911/payment-fraud-analysis/releases/download/v1.0.0/Credit.Card.Fraud.Analysis.-.V2.-.Reviewed.pbix)
+- [Financial transactions report (.pbix)](https://github.com/Spooky911/payment-fraud-analysis/releases/download/v1.0.0/Financial.Transactions.-.Fraud.Study.pbix)
+- [Full project package, including ModelData](https://github.com/Spooky911/payment-fraud-analysis/releases/tag/v1.0.0)
+
+Open either PBIX file in Power BI Desktop. The package also includes the prepared tables used by the financial report.
+
 A Power BI study of two transaction datasets, with a short presentation that brings the findings together.
 
 The question behind this work was practical: **if a team can only review a limited number of payments, which patterns are worth its time?** Counting fraud cases is useful, but it leaves out two things: how many legitimate customers would also be flagged, and how much payment value those cases represent.
